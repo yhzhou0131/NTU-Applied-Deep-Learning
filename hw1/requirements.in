@@ -1,0 +1,9 @@
+# requirements
+torch==1.10.2
+tensorflow==2.8.0
+pandas==1.4.1
+pytorch-lightning==1.5.10
+spacy==3.2.2
+seqeval==1.2.2
+tqdm
+gensim==4.1.2

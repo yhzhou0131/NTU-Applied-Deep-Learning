@@ -1,0 +1,11 @@
+python ./run_summarization.py \
+    --model_name_or_path ./mt5_summarization \
+    --output_dir ./mt5_summarization \
+    --do_predict \
+    --test_file $1 \
+    --output_file $2 \
+    --text_column maintext \
+    --summary_column title \
+    --per_device_eval_batch_size=4 \
+    --predict_with_generate \
+    --num_beams 5

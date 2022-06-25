@@ -1,0 +1,10 @@
+torch==1.10.2
+sentencepiece==0.1.96
+tqdm==4.62.1  
+pytorch-lightning==1.5.10
+spacy==3.2.2
+seqeval==1.2.2
+numpy==1.20.3
+transformers==4.17.0
+datasets==2.0.0
+accelerate==0.6.1
