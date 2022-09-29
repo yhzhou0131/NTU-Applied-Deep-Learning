@@ -18,4 +18,4 @@ Homework of [Applied Deep Learning 2021](https://www.csie.ntu.edu.tw/~miulab/s11
 - Public Leaderboard: **7/170**
 - Private Leaderboard: **11/170**
 
-# Homework 3: Natural Language Generationi
+# Homework 3: Natural Language Generation
